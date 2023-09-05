@@ -1,1 +1,1 @@
-# Git-Epam
+# Github course
